@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=IEntrada
+comment0.text=\r\n\ Interface\ da\ entrada\ de\ dados\r\n\ \r\n\ @author\ (Felipe\ Mendes\ Campos)\ \r\n\ @version\ (30/04/2024)\r\n\r\n\ para\ mudar\ entrada\ via\ console\ ou\ grafica,\ mudar\ nas\ classes\:\ CadastroAlunos\ e\ Controller\r\n
+comment1.params=
+comment1.target=char\ opcao()
+comment2.params=
+comment2.target=java.lang.String\ lerNome()
+comment3.params=
+comment3.target=int\ lerIdade()
+comment4.params=
+comment4.target=float\ lerNota()
+comment5.params=
+comment5.target=java.lang.String\ lerRA()
+comment6.params=
+comment6.target=int\ lerSemestre()
+comment7.params=qtde
+comment7.target=Disciplina[]\ lerDisc(int)
+comment8.params=
+comment8.target=int\ lerQtd()
+comment9.params=
+comment9.target=java.lang.String\ nomeDaDisc()
+numComments=10
